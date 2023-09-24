@@ -1,2 +1,2 @@
 # Dynamic-Pricing-Algorithm
-Dynamic Pricing Based on Three Reinforcement Learning Models for CyberC23
+Dynamic Pricing Based on Three Reinforcement Learning Models for CCEAI-2024
